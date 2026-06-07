@@ -1,0 +1,11 @@
+[package]
+name = "sync-primitive"
+version = "0.1.0"
+edition = "2021"
+description = "Userspace synchronization primitives: mutex, semaphore, rwlock, barrier, spinlock simulation"
+license = "MIT"
+repository = "https://github.com/SuperInstance/sync-primitive"
+keywords = ["synchronization", "mutex", "semaphore", "rwlock", "barrier"]
+categories = ["concurrency", "simulation"]
+authors = ["SuperInstance"]
+readme = "README.md"
